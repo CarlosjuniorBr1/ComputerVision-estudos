@@ -1,0 +1,24 @@
+# Ambientes virtuais Python
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Bibliotecas instaladas
+*.egg-info/
+
+# VSCode e editores
+.vscode/
+*.swp
+
+# Datasets ou arquivos grandes
+datasets/
+*.zip
+*.mp4
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
